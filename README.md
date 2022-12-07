@@ -5,3 +5,6 @@ Converts .kt files to .jar for compiling and executing kotlin code. Once compile
 
 ## update.sh
 quick way to check for/and update ubuntu based distros
+
+## viter.sh
+vite script to create either a TSX or JSX based react project. pass -t when calling the script to build your react project with TSX.
